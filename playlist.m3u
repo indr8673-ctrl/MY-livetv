@@ -1,5 +1,313 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0000_tsports" tvg-name="0000_T-Sports" tvg-logo="/tvlogo/TSports.jpg" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",0000_T-Sports
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",ZEE TV 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97476.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Plus 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97478.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Colors 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97479.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sony SET 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97477.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sony Sab 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97481.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Bharat 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97480.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",&Tv 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97482.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",& Picture 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97483.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Gold 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97484.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Zee Cinema 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97486.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sony Max 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97487.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sony Pix 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97489.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Movies 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97490.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Zee Cafe 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97491.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Gold Select 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97485.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",FOX Life 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97501.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sony Ten 1 4K Ultra HD.
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122087.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sony Ten 2 4K Ultra HD.
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122088.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sony Ten 3 4K Ultra HD.
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122089.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",VIJAY 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122090.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Jalsha 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122092.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Jalsha_Movies 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122091.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Colors Bangla 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122094.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sun Music 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122097.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Maa Mov 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122098.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",ZEE MARATHI 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122099.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",UDAYA 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122100.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",colors Marathi 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122102.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Maa 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122104.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Zee Telegu 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122105.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",ETV 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122106.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Pravah 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122108.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Asianet 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122109.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",KTV 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122110.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",SUN TV 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122111.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Zee Bangla 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122093.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Gemini Movies 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/132270.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",GEMINI MUSIC 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/132271.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",GEMINI TV 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/132272.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",ZEE TALKIE 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122101.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",& flix 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97488.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Disney 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122082.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Sports 1 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122083.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Sports 2 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122084.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Sports Select 1 4K Ultra HD.
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122085.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Sports Select 2 4K Ultra HD.
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122086.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Zee Keralam 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/132273.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Zee Kannada 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/132269.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Zee Tamil 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122103.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Colors Tamil 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122095.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Jalsha Movies 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122107.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",SURYA 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122096.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",colors INFINITY 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97492.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Star Movies Select 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97500.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",HISTORY TV 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97502.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",NAT Geo Wild 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97503.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",National GEO 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97504.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sony BBC Ear 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97505.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",TLC 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97506.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",DISCOVERY 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97507.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",ANIMAL PLANET 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97508.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/1e/b8/90/1eb890960808b76fcd19766186f83714.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Nick 4K Ultra HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/122081.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | COLORS CINEPLEX HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85219.m3u8
+#EXTINF:-1 tvg-logo="http://bostv.one:8080/images/0beac8610751fc39b67a1f7a9be349ea.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | STAR GOLD 2
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85210.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | SONY MAX HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85216.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11915-j9l5clzs-v1/imageContent-11915-j9l5clzs-m1.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | ZEE CINEMA HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85212.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SGHD_Thumbnail-v2/SGHD_Thumbnail.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | STAR GOLD HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85208.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | & PICTURE HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85207.m3u8
+#EXTINF:-1 tvg-logo="http://bostv.one:8080/images/fe0ccc2b2cc21cd459c630263a1a771c.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | STAR GOLD SELECT HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85209.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/sonymax2.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | SONY MAX 2
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85217.m3u8
+#EXTINF:-1 tvg-logo="https://onezoo.net/wp-content/uploads/2025/07/ChatGPT-Image-Nov-13-2025-09_21_34-PM-1-200x300.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Superfine Films
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/126891.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | Manoranjan Movies
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/100207.m3u8
+#EXTINF:-1 tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-10-2026-11_08_26-AM-1-200x300.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IND: Dishoom Films
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/89938.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | ZEE BOLLYWOOD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85213.m3u8
+#EXTINF:-1 tvg-logo="https://onezoo.net/wp-content/uploads/2025/10/ChatGPT-Image-Oct-4-2025-02_39_02-PM-1-200x300.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IND: The Movie Club
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/89913.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IND: Hiff Movies
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/89914.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | Colors Cineplex Superhit
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/100208.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | Goldmines Bollywood
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/95901.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Zee Anmol Cinema
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/131803.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/zeeclassics.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | ZEE CLASSIC
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85214.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | Cineplex Bollywood
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/97509.m3u8
+#EXTINF:-1 tvg-logo="http://bostv.one:8080/images/3a386db5ee0b4f3adf74b53de3d6669f.jpg" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | ZEE ACTION
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85215.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",MBC Bollywood HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/131695.m3u8
+#EXTINF:-1 tvg-logo="https://img.logo-cdn.cc/utvaction.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | Star Gold Thrills
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/95903.m3u8
+#EXTINF:-1 tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star-Gold-Romance-Transparent.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | Star Gold Romance
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/95902.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Sony Wah
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/131546.m3u8
+#EXTINF:-1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/01/themoviesclub.webp" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",The Movie Club
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/126890.m3u8
+#EXTINF:-1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/01/hollywooddesi.webp" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Hollywood Desi
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/126889.m3u8
+#EXTINF:-1 tvg-logo="https://onezoo.net/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-09_53_44-PM-1-200x300.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Big Star Bollywood
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/131694.m3u8
+#EXTINF:-1 tvg-logo="https://mhdmax.com/wp-content/uploads/2022/10/bollyprime.webp" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Bollywood Prime
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/126886.m3u8
+#EXTINF:-1 tvg-logo="https://mhdmax.com/wp-content/uploads/2024/01/southstation.webp" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",South Station
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/126888.m3u8
+#EXTINF:-1 tvg-logo="https://mhdmax.com/wp-content/uploads/2022/12/jkTKn6K.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",Shemaroo Bollywood
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/123003.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IND: House Of Crime
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/89947.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/B4UKad_Thumbnail-v5/B4UKad_Thumbnail.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | B4U KADAK
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/95285.m3u8
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53943-kblsqraw-v3/imageContent-53943-kblsqraw-m4.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | Goldmines
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/95900.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2023/09/ChatGPT-Image-Apr-14-2025-03_39_47-PM-200x300.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | Goldmines Movies
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/95287.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2023/09/ChatGPT-Image-Apr-14-2025-03_41_56-PM-200x300.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | Goldmines 2
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/95286.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2023/05/ChatGPT-Image-May-24-2025-05_44_33-PM-200x300.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | ABZY Movies
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85218.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-9-2025-09_29_41-AM-1-200x300.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN: Bollywood Movies
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/85205.m3u8
+#EXTINF:-1 tvg-logo="https://oxolive.com/wp-content/uploads/2025/05/ChatGPT-Image-May-21-2025-10_01_52-AM-200x300.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IND: Manoranjan Grand
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/89915.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IND: BOLLYWOOD HD
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/89949.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IND: BOLLYWOOD CLASSIC
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/89948.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vH9Z1Xm.png" group-title="🔥 BOSS TV 🔥" group-logo="https://i.imgur.com/vH9Z1Xm.png",IN | NH BollyGold
+#EXTGRP:🔥 BOSS TV 🔥
+http://bosstv.click:8080/live/18012689/77561563/74797.m3u8#EXTINF:-1 tvg-id="0000_tsports" tvg-name="0000_T-Sports" tvg-logo="/tvlogo/TSports.jpg" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",0000_T-Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.151.60.162:2122/play/a030/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
@@ -35,6 +343,10 @@ http://103.151.60.162:2122/play/a02x/index.m3u8?hls|User-Agent=Mozilla/5.0 (Wind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.14.151.101:8000/play/a10r/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
+#EXTINF:-1 tvg-id="france_24_english_720p" tvg-name="France 24 English (720p)" tvg-logo="/tvlogo/france_24_english_720p.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",France 24 English (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.google.com/
+http://103.14.151.101:8000/play/a115/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
 #EXTINF:-1 tvg-id="france_news_24" tvg-name="France News 24" tvg-logo="/tvlogo/news24.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",France News 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
@@ -43,10 +355,6 @@ http://103.14.151.101:8000/play/a10t/index.m3u8?hls|User-Agent=Mozilla/5.0 (Wind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.14.151.101:8000/play/a10v/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
-#EXTINF:-1 tvg-id="iran_news" tvg-name="Iran News" tvg-logo="/tvlogo/iran_news.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Iran News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.google.com/
-http://103.14.151.101:8000/play/a107/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
 #EXTINF:-1 tvg-id="ndtv_news" tvg-name="NDTV NEWS" tvg-logo="/tvlogo/&tv.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",NDTV NEWS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
@@ -99,6 +407,10 @@ http://103.14.151.101:8000/play/a12j/index.m3u8?hls|User-Agent=Mozilla/5.0 (Wind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.14.151.101:8000/play/a0wb/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
+#EXTINF:-1 tvg-id="doraemon_tv" tvg-name="Doraemon TV" tvg-logo="/tvlogo/&tv.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Doraemon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.google.com/
+http://103.14.151.101:8000/play/a11q/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
 #EXTINF:-1 tvg-id="dw_english" tvg-name="DW English" tvg-logo="/tvlogo/dw.jpg" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",DW English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
@@ -115,6 +427,10 @@ http://103.14.151.101:8000/play/a11e/index.m3u8?hls|User-Agent=Mozilla/5.0 (Wind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.14.151.101:8000/play/a10d/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
+#EXTINF:-1 tvg-id="gopal_bhar_tv" tvg-name="Gopal Bhar TV" tvg-logo="/tvlogo/&tv.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Gopal Bhar TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.google.com/
+http://103.14.151.101:8000/play/a11i/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
 #EXTINF:-1 tvg-id="green_tv_1080p" tvg-name="Green TV (1080p)" tvg-logo="/tvlogo/&tv.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Green TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
@@ -143,6 +459,10 @@ http://103.14.151.101:8000/play/a11s/index.m3u8?hls|User-Agent=Mozilla/5.0 (Wind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.14.151.101:8000/play/a0zt/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
+#EXTINF:-1 tvg-id="nat_geo_hd" tvg-name="Nat Geo HD" tvg-logo="/tvlogo/Nat_Geo_HD.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Nat Geo HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.google.com/
+http://103.14.151.101:8000/play/a121/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
 #EXTINF:-1 tvg-id="ndtv_english" tvg-name="NDTV English" tvg-logo="/tvlogo/&tv.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",NDTV English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
@@ -191,22 +511,22 @@ http://103.14.151.101:8000/play/a120/index.m3u8?hls|User-Agent=Mozilla/5.0 (Wind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.151.60.162:2122/play/a031/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
-#EXTINF:-1 tvg-id="tom__jarry" tvg-name="Tom & Jarry" tvg-logo="/tvlogo/tom__jarry.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Tom & Jarry
+#EXTINF:-1 tvg-id="tom__jerry_tv" tvg-name="Tom & Jerry TV" tvg-logo="/tvlogo/&tv.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Tom & Jerry TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
-http://103.14.151.101:8000/play/a11u/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
+http://103.14.151.101:8000/play/a11o/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
 #EXTINF:-1 tvg-id="travel_xp_english" tvg-name="Travel XP English" tvg-logo="/tvlogo/travel_xp.jpg" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Travel XP English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.14.151.101:8000/play/a10n/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
-#EXTINF:-1 tvg-id="travel_xp_english_nz" tvg-name="Travel XP English NZ" tvg-logo="/tvlogo/travel_xp.jpg" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Travel XP English NZ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.google.com/
-http://103.14.151.101:8000/play/a11x/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
 #EXTINF:-1 tvg-id="trt_world" tvg-name="TRT WORLD" tvg-logo="/tvlogo/trt_world.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",TRT WORLD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.14.151.101:8000/play/a11b/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
+#EXTINF:-1 tvg-id="welcome_to_playz_tv" tvg-name="Welcome to PlayZ TV" tvg-logo="/tvlogo/&tv.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Welcome to PlayZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.google.com/
+http://103.14.151.101:8000/play/a0w3/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
 #EXTINF:-1 tvg-id="cartoon_network" tvg-name="Cartoon Network" tvg-logo="/tvlogo/cartoon.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
@@ -235,10 +555,6 @@ http://103.14.151.101:8000/play/a128/index.m3u8?hls|User-Agent=Mozilla/5.0 (Wind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
 http://103.14.151.101:8000/play/a10p/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
-#EXTINF:-1 tvg-id="deshi_tv_720p" tvg-name="Deshi TV (720p)" tvg-logo="/tvlogo/&tv.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",Deshi TV (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.google.com/
-http://103.14.151.101:8000/play/a0zo/index.m3u8?hls|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36&Referer=https://www.google.com/
 #EXTINF:-1 tvg-id="ndtv_hindi" tvg-name="NDTV Hindi" tvg-logo="/tvlogo/&tv.png" group-title="Mix TV 📺" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyzXIapdZaTFT4MgJtjjLRC04a5QjG6mxTnPURq62CbxnI6NwM8NOy-c&s=10",NDTV Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.google.com/
